@@ -1,0 +1,9 @@
+CLI -> Confirgurações a mais de ambiente --> Padrão do BB
+
+Expo --> Só precisa do node
+
+    Managed workflow
+        Não tem acesso as pastas android e ios
+
+    Bare workflow
+        Combinas o CLI com o Expo Managed, pois permite fazer alterações no nativo 
